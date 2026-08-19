@@ -22,8 +22,8 @@ Merged contributions to the tools I use every day.
 
 | Project | Contribution |
 | --- | --- |
-| [Alchemy](https://github.com/alchemy-run/cloudflare-tools/pull/86) | `fix(vite-plugin)`: preserve Vite's base path when forwarding requests to the Worker |
 | [Zed](https://github.com/zed-industries/zed/pull/62280) | `markdown_preview`: stop search from matching text that never renders, like link and image destinations |
+| [Alchemy](https://github.com/alchemy-run/cloudflare-tools/pull/86) | `fix(vite-plugin)`: preserve Vite's base path when forwarding requests to the Worker |
 | [Zed](https://github.com/zed-industries/zed/pull/60942) | `markdown_preview`: show link destinations on hover (Firefox-style URL preview) |
 | [Zed](https://github.com/zed-industries/zed/pull/59525) | `markdown`: make images nested inside links, like README badges, clickable |
 | [Zed](https://github.com/zed-industries/zed/pull/58018) | `git_ui`: show total diff stats in the git panel |
